@@ -1,12 +1,25 @@
 # GNC-model-rocket
 Guidance Navegation and Control, GNC for sort, Model Rocket.
 
-This project will be first a proof of concept. So the main objective is improving the know-how of an Advanced Model Rocket build from "ground up" to "sky high".
+This project will be first a proof of concept with 2 stages:
+1 - Flight with fins no TVC
+2 - Flight with only TVC 
 
-The payload of this said Rocket will be the Avionics hosting the Teensy 4.1 powered Flight Computer.
-This will Control the TVC Engine Mount to "steer" the Rocket but always keeping the pointy end up :)
+This test profile will allow me to have some good telemetry regarding how the forces are acting on the rocket to therefore fine tune/fix ASTRA's software for the second flight with only TVC.
 
-In Essence, TVC like the name sujects, it is Thurst Vectoring Control. This consists of gimbaling the Motor's Thurst Vector Direction 
-making it rotate by the CM of the rocket therefore changing it's overall trajectory of the flight. 
+The payload of this said Rocket will be the Avionics hosting the Teensy 4.1 powered Flight Computer called ASTRA.
+This will Control the TVC Engine Mount to "steer" the Rocket but always keeping the pointy end UP :)
+
+In Essence, TVC like the name sujects, it stands for Thurst Vectoring Control. This consists of gimbaling the Motor's Thurst Vector Direction which applies torque on the rocket CM and therefore changes it's overall trajectory.
+
+The art of making a GNC model rocket is a combination of being able to get absolute orientation or at least relative orientation (eg. relative to the launchpad) on a body that is under high acceleration and being able to relate that orientation data to the navigation system and finally the actuators.
+
+
+DISCLAMER
+The goal of this project is to gain experience in real life small-scale development of eletronically controlled model rockets for educational purposes ONLY.
+With this said, I WILL NOT be disclosing ASTRA's software in this repository or anywhere else.
+
+You will be able to follow along the project here as I will be posting simulations screenshots, photos, videos and hardwarwe subsystems development, overall engineering.
+Sharing ONLY what is currently legally found elsewhere on the model rocketry community. 
 
 ![](https://www.grc.nasa.gov/www/k-12/rocket/Images/rktcontrl.gif)
