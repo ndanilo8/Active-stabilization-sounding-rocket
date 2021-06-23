@@ -16,8 +16,8 @@ The art of making a GNC model rocket is a combination of being able to get absol
 
 
 ## DISCLAMER
-The goal of this project is to gain experience in real life small-scale development of eletronically controlled model rockets for educational purposes ONLY.
-With this said, I WILL NOT be disclosing ASTRA's software in this repository or anywhere else.
+The goal of this project is to gain experience in real life small-scale development of eletronically controlled model rockets for **educational purposes ONLY**.
+With this said, **I WILL NOT** be disclosing ASTRA's software in this repository or anywhere else.
 
 You will be able to follow along the project here as I will be posting simulations screenshots, photos, videos and hardwarwe subsystems development, overall engineering.
 Sharing ONLY what is currently legally found elsewhere on the model rocketry community. 
