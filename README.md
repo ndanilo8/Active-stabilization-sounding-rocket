@@ -15,7 +15,7 @@ In Essence, TVC like the name sujects, it stands for Thurst Vectoring Control. T
 The art of making a GNC model rocket is a combination of being able to get absolute orientation or at least relative orientation (eg. relative to the launchpad) on a body that is under high acceleration and being able to relate that orientation data to the navigation system and finally the actuators.
 
 
-DISCLAMER
+## DISCLAMER
 The goal of this project is to gain experience in real life small-scale development of eletronically controlled model rockets for educational purposes ONLY.
 With this said, I WILL NOT be disclosing ASTRA's software in this repository or anywhere else.
 
