@@ -1,5 +1,5 @@
 # GNC-model-rocket
-Guidance Navegation and Control, GNC for sort, Model Rocket.
+Guidance Navigation and Control, GNC for sort, Model Rocket.
 
 This project will be first a proof of concept with 2 stages:
 1 - Flight with fins (passive control)
