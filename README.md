@@ -1,7 +1,7 @@
 # GNC-model-rocket
 Guidance Navigation and Control, GNC for sort, Model Rocket.
 
-In Essence, TVC like the name sujects, it stands for Thurst Vectoring Control. This consists of gimbaling the Motor. This induces a Torque or a "Moment" around the CM of the rocket, thus making the rocket "steer". Like the following simulation:
+In Essence, TVC like the name sujects, it stands for Thurst Vectoring Control. This consists of gimbaling the nozzle (In this case the Motor). This induces a Torque or a "Moment" around the CM of the rocket, thus making the rocket "steer". Like the following simulation:
 
 ![](https://www.grc.nasa.gov/www/k-12/rocket/Images/pitch.gif)
 
