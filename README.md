@@ -6,7 +6,7 @@ In Essence, TVC like the name sujects, it stands for Thurst Vectoring Control. T
 ![](https://www.grc.nasa.gov/www/k-12/rocket/Images/pitch.gif)
 
 ### DISCLAMER
-The goal of this project is to gain experience in real life small-scale development of eletronically stabilized  model rockets for **educational purposes ONLY**.
+The goal of this project is to gain experience in real life development of eletronically stabilized Experimental Sounding Rockets for **educational purposes ONLY**.
 With this said, **I WILL NOT** be disclosing any flight software in this repository or anywhere else.
 
 You will be able to follow along the project here as I will be posting simulations screenshots, photos, videos.
